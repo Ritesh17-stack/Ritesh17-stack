@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Parvat</h1>
 <h3 align="center">A passionate AI/ML & Web Developer from India</h3>
 
-- 🔭 I’m currently working on [QueryLingo: AI-Powered Database Query App](https://github.com/Ritesh17-stack/QUERYLINGO)
+- 🔭 I’m currently working on [Agentic-text-2-sql](https://github.com/Ritesh17-stack/Agentic-text-2-sql)
 
 - 🌱 I’m currently learning **Cloud & Linux**
 
